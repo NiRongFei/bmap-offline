@@ -1,2 +1,2 @@
 # bmap-offline-demo
-Baidu offline map deveop demo.
+A bmap demo for achieving baidu offline map.
